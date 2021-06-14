@@ -9,7 +9,7 @@ echo "================================================"
 if [[ -n $fileName ]]; then
   if [ "$isNew" = "y" ]; then
     echo "ssh f07540c@uxhazpa01p.casecorp.com"
-    echo "sama0303"
+    echo "xaxa0808"
     basePathDest=/appl/WebSphere/cnhi/bulkLoads
     scriptDir=/appl/WebSphere/cnhi/bulkLoads
     scriptName=./bulkLoad.sh
